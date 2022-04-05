@@ -1,6 +1,6 @@
 # Bullbone
 
-The library enhances Backbone.js view. Developed for EspoCRM.
+The library enhances Backbone.js view. Developed for ForcellCRM.
 
 ## Features
 
